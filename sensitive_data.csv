@@ -1,0 +1,9 @@
+name,age,salary,credit_score,zipcode,gender,occupation
+Ali,25,50000,720,12345,Male,Engineer
+Sara,30,60000,680,12345,Female,Doctor
+Ahmed,40,80000,700,54321,Male,Teacher
+Fatima,35,75000,710,54321,Female,Lawyer
+Usman,28,52000,690,67890,Male,Scientist
+Zara,32,58000,710,67890,Female,Analyst
+Hassan,45,90000,730,98765,Male,Manager
+Ayesha,38,82000,705,98765,Female,Consultant
